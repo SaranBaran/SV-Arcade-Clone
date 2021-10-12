@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{325B8815-E4D1-8FD5-E345-86CA77492173}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="31" Column="18" />
+      <File FileName="Assets/Scripts/EnemyMovement.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/EnemyAttack.cs" />
+      <File FileName="Assets/Scripts/PlayerShooting.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SV Arcade Clone" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="537de084-3be0-4a7d-9d67-d13f0c8973be" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
