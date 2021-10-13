@@ -53,10 +53,11 @@
     <UnityVersion>2020.3.19f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scripts/PlayerMovement.cs" />
     <Compile Include="Assets/Scripts/EnemyMovement.cs" />
     <Compile Include="Assets/Scripts/EnemyAttack.cs" />
+    <Compile Include="Assets/Scripts/PlayerMovement.cs" />
     <Compile Include="Assets/Scripts/PlayerShooting.cs" />
+    <Compile Include="Assets/Scripts/SpawnEnemies.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
